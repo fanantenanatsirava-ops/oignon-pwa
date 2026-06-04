@@ -1,2 +1,2 @@
 # oignon-pwa
-ichiers PWA pour l’application OIGNON
+Fichiers PWA pour l’application OIGNON.
